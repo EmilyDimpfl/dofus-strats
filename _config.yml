@@ -19,12 +19,11 @@
 # in the templates via {{ site.myvariable }}.
 
 title: Saone's Dofus Strats
-#email: your-email@example.com
+#email:
 description: >- # this means to ignore newlines until "baseurl:"
   Tips, tricks, and strategies for Dofus content that has generally given me trouble.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
-dofus_username: Saone
+baseurl: "/dofus-strats" # the subpath of your site, e.g. /blog
+url: "https://emilydimpfl.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 #github_username:  jekyll
 
 # Build settings
