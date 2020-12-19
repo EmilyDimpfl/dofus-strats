@@ -1,0 +1,12 @@
+---
+# Feel free to add content and custom Front Matter to this file.
+# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
+
+layout: home
+---
+
+I'm a Dofus player that started playing In 2003 on Rushu, (currently Echo) who is generally years behind current content. My primary team is currently Cra, Enutrof, Eniripsa, and Pandawa, and I'm gradually working my way through various questlines and dungeons.
+
+I usually take pretty careful notes of mechanics and try to plan things out in advance a bit so I have some idea of what I'm doing in the moment.
+
+I'm making my notes for these various fights and such available in the hopes that they're helpful for others!
