@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Bird of Time"
-categories: dofus quest
+#categories: dofus quest
 published: true
 ---
 

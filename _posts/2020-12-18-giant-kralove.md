@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Giant Kralove"
-categories: dofus quest dungeon
+#categories: dofus quest dungeon
 published: true
 ---
 
