@@ -5,6 +5,8 @@ permalink: /guide/
 published: true
 ---
 
+This guide is a work in progress, and I'm expanding it bit by bit. Feel free to [let me know](https://github.com/EmilyDimpfl/dofus-strats/issues) if there are things you'd like to see!
+
 # Getting started in Dofus
 
 I see a lot of questions about how to make money in Dofus, how to level, and general confusion about how to approach the game. I figured I'd take a crack at writing something up that could be helpful to new and older players alike.
@@ -37,7 +39,7 @@ These soul stones can be quite expensive at higher levels, but archmonster souls
 
 I personally recommend not focusing on Ochre until you've gotten to level 200, have at least a beginner "endgame" set, and have built up some money. The number of soul stones you'll need is not small, and hunting and trading archmonsters is a lengthy process that you could put towards other more immediate improvements to your character.
 
-More information: https://dofuswiki.fandom.com/wiki/Soul_Stone
+More information: [https://dofuswiki.fandom.com/wiki/Soul_Stone](https://dofuswiki.fandom.com/wiki/Soul_Stone)
 
 ## Bounties and Scrolling
 
@@ -53,7 +55,7 @@ A scroll will pop up on the screen - to accept the quest (if you're high enough 
 
 ![](content/bounty_scroll.png)
 
-More information: https://dofuswiki.fandom.com/wiki/Bounty_Quest
+More information: [https://dofuswiki.fandom.com/wiki/Bounty_Quest](https://dofuswiki.fandom.com/wiki/Soul_Stone)
 
 ## Professions
 
@@ -139,9 +141,9 @@ I recommend not sharing account credentials, and if you lend people gear, only l
 
 You need to send a mod (in the case of Echo, at the time of this writing, that's \[Mod]Fiora) an uncropped, unedited screenshot of the player in question (or whispers from them, in the case of link scammers and such) with the character information/details also visible in the chat box.
 
-https://ankabox.ankama.com/en/
+[https://ankabox.ankama.com/en/](https://ankabox.ankama.com/en/)
 
 I understand that they also have a Twitter account that you can message now:
 
-https://twitter.com/dofusmods_en
+[https://twitter.com/dofusmods_en](https://twitter.com/dofusmods_en)
 
