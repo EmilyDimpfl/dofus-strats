@@ -55,6 +55,8 @@ A scroll will pop up on the screen - to accept the quest (if you're high enough 
 
 ![](content/bounty_scroll.png)
 
+Note: on the island of Ohwymi, the bounty quests are in the tavern, rather than the militia.
+
 More information: [https://dofuswiki.fandom.com/wiki/Bounty_Quest](https://dofuswiki.fandom.com/wiki/Soul_Stone)
 
 ## Professions
