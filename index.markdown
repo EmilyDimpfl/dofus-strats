@@ -9,4 +9,4 @@ layout: home
 
 This is a website for Dofus guides and information to help new and old players alike.
 
-If you're a newer player, you may find the [Getting Started]({% link guide.md %}) or [Builds]({% link builds.md %}) pages useful. If you're looking for strategies for specific fights, [Quests]({% link quests.md %}) or [Videos]({% link videos.md %}) might be more your speed.
+If you're a newer player, you may find the [Getting Started]({% link guide.md %}) or [Builds]({% link builds.md %}) pages useful. If you're looking for strategies for specific fights, [Videos]({% link videos.md %}) might be more your speed.
