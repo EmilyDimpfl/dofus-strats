@@ -3,10 +3,10 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 title: Dragon Eggs
 layout: home
-published: false
+published: true
 ---
 
-# Welcome to Dragon Eggs!
+## Welcome to Dragon Eggs!
 
 This is a website for Dofus guides and information to help new and old players alike.
 
