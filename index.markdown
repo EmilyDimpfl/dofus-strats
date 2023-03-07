@@ -1,12 +1,12 @@
 ---
 # Feel free to add content and custom Front Matter to this file.
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-title: Dragon Eggs
 layout: home
-published: true
 ---
 
-## Welcome to Dragon Eggs!
+<!-- Apparently, a comment here keeps GH Pages from hijacking the first section for the title of the page -->
+
+# Welcome to Dragon Eggs!
 
 This is a website for Dofus guides and information to help new and old players alike.
 

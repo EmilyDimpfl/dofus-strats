@@ -5,7 +5,7 @@ permalink: /about/
 published: true
 ---
 
-## Eminomicon:
+### Eminomicon:
 
 I'm a Dofus player that started playing in 2005 on Rushu, (currently Tal Kasha, post merges). My primary team is currently Cra, Enutrof, Eniripsa, and Pandawa, and I've also done a significant chunk of content on a Rogue, Sadida, Feca, Panda team and assorted other level 200 characters.
 
@@ -13,6 +13,6 @@ I usually take pretty careful notes of mechanics and try to plan things out in a
 
 I have a [Twitch](https://www.twitch.tv/eminomicon) and [YouTube](https://www.youtube.com/channel/UCnQucN0JBzGiIcioV5CbOCg) channel that I sometimes stream or upload videos to, respectively. I also maintain a variety of high-level sets on [DofusLab](https://dofuslab.io/user/Saone/)
 
-## Jake:
+### Jake:
 
-Jake has played a lot of Dofus. He still has to give me a bio to put here.
+Jake has played a lot of Dofus. He still has to give me a bio to put here. He specializes in CC gameplay, and primarily plays Ouginak, Pandawa, Eniripsa, and Huppermage, but also plays most other classes.
