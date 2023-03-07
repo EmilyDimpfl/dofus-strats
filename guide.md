@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Guide
+title: Getting Started
 permalink: /guide/
 published: true
 ---

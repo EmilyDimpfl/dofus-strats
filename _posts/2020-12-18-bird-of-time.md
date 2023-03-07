@@ -5,7 +5,9 @@ title:  "Bird of Time"
 published: true
 ---
 
-I just got Cloudy Dofus done with my team recently, and since information for `$current_patch$` can be scarce, I wanted to post what I did to get it down. This is partly the notes I made while figuring out my strategy, and some post-fight notes of stuff that happened in the actual fight.
+# Bird of Time
+
+I finished the Cloudy Dofus with my team recently, and since information can be scarce, I wanted to post what I did to get it down. This is partly the notes I made while figuring out my strategy, and some post-fight notes of stuff that happened in the actual fight.
 
 I hope this is helpful!
 

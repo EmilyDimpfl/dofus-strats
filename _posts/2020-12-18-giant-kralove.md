@@ -5,6 +5,8 @@ title:  "Giant Kralove"
 published: true
 ---
 
+# Giant Kralove:
+
 I just carried a friend through Giant Kralove for their Ochre Dofus quest, and while I didn't take much in the way of notes before starting (as to not keep them waiting), I wanted to write something down post-fight to help me next time I do this (hopefully for my own Ochre Dofus!) - in particular, I wanted to figure out which turns I wanted to use various spells on, in order to have damage buffs (and so on) ready to go when the Giant Kralove is vulnerable.
 
 My team composition for this fight was Cra, Enutrof, Eniripsa, and Pandawa, and my friend played a Ecaflip, so this is from the perspective of a ranged team with those classes.
