@@ -15,4 +15,6 @@ I have a [Twitch](https://www.twitch.tv/eminomicon) and [YouTube](https://www.yo
 
 ### Jake:
 
-Jake has played a lot of Dofus. He still has to give me a bio to put here. He specializes in CC gameplay, and primarily plays Ouginak, Pandawa, Eniripsa, and Huppermage, but also plays most other classes.
+I'm Jake. I started playing Dofus in 2008. I really enjoy RPGs, my favorite video games (besides Dofus) are Chrono Trigger and Neverwinter Nights 2. 
+
+My first team on dofus was Cra/Elio/Enu/Iop, I played this team through a lot of content, but eventually grew unsatisfied. I had a lot of fun playing a CC build in Temporis IV, so I decided to make a new team that would focus on CC: Eni/Hupper/Ougi/Panda. This team quickly became my "main" team and surpassed my first team in quests completed. I have also started a new team of Sram/Feca/Panda/Eca, but I have not done much content with them and I'm thinking about changing it up.
