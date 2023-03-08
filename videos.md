@@ -5,18 +5,24 @@ permalink: /videos/
 published: true
 ---
 
+# Contents
+{:.no_toc}
+
+* Will be replaced with the ToC, excluding the "Contents" header
+{:toc}
+
 Note that videos have useful information in the video descriptions that may help others beat the fights.
 
-## Nascherite:
+## Nascherite
 
-#### Enutrof:
+#### Enutrof
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/3nkc2yygekg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-#### Pandawa:
+#### Pandawa
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/6gTnNUYLKe8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-#### Cra:
+#### Cra
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/5kVH4PTeXfM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>

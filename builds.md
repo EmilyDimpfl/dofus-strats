@@ -5,6 +5,12 @@ permalink: /builds/
 published: true
 ---
 
+# Contents
+{:.no_toc}
+
+* Will be replaced with the ToC, excluding the "Contents" header
+{:toc}
+
 This guide is a work in progress, and I'm expanding it bit by bit. Feel free to [let me know](https://github.com/EmilyDimpfl/dofus-strats/issues) if there are things you'd like to see!
 
 # How to Build Equipment Sets in Dofus
@@ -52,6 +58,7 @@ Around level 150, multi-element builds become more viable. You can equip the hig
 # Level 200 Sets
 
 #### Agility
+
 - [Budget Agi CC](https://dofuslab.io/view/427e5267-78e2-4d01-b22f-d08a298b5978/)
 
 #### Strength
@@ -61,9 +68,11 @@ Around level 150, multi-element builds become more viable. You can equip the hig
 
 
 #### Intelligence
+
 - [Budget Int Osa](https://dofuslab.io/view/e4d3701b-a3ac-4212-804f-54beb50baf6a/)
 
 #### Omni
+
 - [Omni Crit (Turtelonia/Nomarow/Treadfast)](https://dofuslab.io/view/4bff9663-4877-4d60-a38a-f50388449249/)
 
 #### Tank
@@ -73,4 +82,5 @@ Around level 150, multi-element builds become more viable. You can equip the hig
 
 
 #### Other
+
 - [Pure Pushback](https://dofuslab.io/view/bcd5284a-0c83-4ea4-a362-e42c71b37095/)
