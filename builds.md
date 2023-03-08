@@ -51,4 +51,6 @@ Around level 150, multi-element builds become more viable. You can equip the hig
 
 # Level 200 Sets
 
-[Omni Crit (Turtelonia/Nomarow/Treadfast)](https://dofuslab.io/view/4bff9663-4877-4d60-a38a-f50388449249/)
+- [Omni Crit (Turtelonia/Nomarow/Treadfast)](https://dofuslab.io/view/4bff9663-4877-4d60-a38a-f50388449249/)
+
+- [Budget Agi CC](https://dofuslab.io/view/427e5267-78e2-4d01-b22f-d08a298b5978/)
