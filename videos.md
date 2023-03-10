@@ -26,3 +26,15 @@ Note that videos have useful information in the video descriptions that may help
 #### Cra
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/5kVH4PTeXfM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+#### Feca
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JQWanuhltJc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+#### Sadida
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PiSKJOoQVSY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+#### Rogue
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X_ZPBcMsLek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
